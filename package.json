@@ -1,0 +1,23 @@
+{
+  "name": "horzcat",
+  "version": "1.0.0",
+  "description": "Horizontally concatenate arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwstegman/horzcat.git"
+  },
+  "keywords": [
+    "math",
+    "matrices"
+  ],
+  "author": "Pierce Stegman <pwstegman@gmail.com> (https://github.com/pwstegman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pwstegman/horzcat/issues"
+  },
+  "homepage": "https://github.com/pwstegman/horzcat#readme"
+}
