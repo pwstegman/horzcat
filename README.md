@@ -11,6 +11,8 @@ npm install horzcat
 
 ## Usage
 
+While only two arrays are used in the below example, horzcat supports an arbitrary number of arrays as arguments
+
 ```javascript
 const horzcat = require('horzcat');
 
